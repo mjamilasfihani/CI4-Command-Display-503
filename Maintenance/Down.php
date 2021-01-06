@@ -50,7 +50,7 @@ class Down extends BaseCommand
         $path = WRITEPATH . 'uploads/';
 
         // We need to check the files first
-        if (file_exists($path . '503.php') && file_exists($path . '503.html'))
+        if (file_exists($path . '503.php') || file_exists($path . '503.html'))
         {
             CLI::error('Maintenance mode has activated!');
             return;
