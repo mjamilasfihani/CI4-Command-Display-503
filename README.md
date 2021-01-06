@@ -15,6 +15,7 @@ Under
 
 `$paths = new Config\Paths();`
 
+<hr>
 
 Then you can use this command
 
