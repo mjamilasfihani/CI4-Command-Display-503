@@ -1,4 +1,4 @@
-# CI4-Command-Display-503
+# CI4-Command-Display-503 | Tested on CI 4.0.4
 Clone this repository and copy it into `app/Commands`
 
 Add this script inside `public/index.php`
