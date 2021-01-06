@@ -17,5 +17,7 @@ Under
 
 
 Then you can use this command
+
 `php spark server:down` for maintenance mode
+
 `php spark server:up` for disabled maintenance mode
