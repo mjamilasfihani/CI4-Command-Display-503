@@ -1,5 +1,7 @@
 # CI4-Command-Display-503
-Add this script
+Clone this repository and copy it into `app/`
+
+Add this script inside `public/index.php`
 
 	// Check if 503 file is available in
 	// directory ../writable/uploads/ and without file extension.
